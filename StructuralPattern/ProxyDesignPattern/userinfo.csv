@@ -1,0 +1,4 @@
+UserID,UserName,UserPassword,Role
+ADM101,Ram,ram@123,Admin
+ADM102,Krishna,krishna@123,Admin
+CUS101,Nisarg,nisarg@123,Customer
